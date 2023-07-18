@@ -1,0 +1,360 @@
+Array
+(
+    [event] => item.update
+    [data] => Array
+        (
+            [id] => 1000292
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689297833
+            [utime] => 1689580701
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000292,
+            [title] => 主标题2
+            [subtitle] => 副标题2
+            [alias] => 
+            [tags] => 
+            [image] => https://test.pagepan.com/02/data/file/item/10016/27.png
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => data/file/item/1000292
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容2
+            [content] => 详情内容2
+            [_more] => {"content_type":"html"}
+        )
+
+)
+Array
+(
+    [event] => item.create
+    [data] => Array
+        (
+            [id] => 1000315
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689580762
+            [utime] => 0
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000315,
+            [title] => 主标题
+            [subtitle] => 副标题
+            [alias] => 
+            [tags] => 
+            [image] => http://qing.pagepan.com.loc/src/data/file/freedom.jpg
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => 
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容
+            [content] => 详情内容
+            [_more] => 
+        )
+
+)
+Array
+(
+    [event] => item.delete
+    [data] => Array
+        (
+            [id] => 1000315
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689580762
+            [utime] => 0
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000315,
+            [title] => 主标题
+            [subtitle] => 副标题
+            [alias] => 
+            [tags] => 
+            [image] => http://qing.pagepan.com.loc/src/data/file/freedom.jpg
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => 
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容
+            [content] => 详情内容
+            [_more] => 
+        )
+
+)
+Array
+(
+    [event] => item.create
+    [data] => Array
+        (
+            [id] => 1000316
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689581398
+            [utime] => 0
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000316,
+            [title] => 主标题
+            [subtitle] => 副标题
+            [alias] => 
+            [tags] => 
+            [image] => http://qing.pagepan.com.loc/src/data/file/freedom.jpg
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => 
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容
+            [content] => 详情内容
+            [_more] => 
+        )
+
+)
+Array
+(
+    [event] => item.delete
+    [data] => Array
+        (
+            [id] => 1000316
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689581398
+            [utime] => 0
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000316,
+            [title] => 主标题
+            [subtitle] => 副标题
+            [alias] => 
+            [tags] => 
+            [image] => http://qing.pagepan.com.loc/src/data/file/freedom.jpg
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => 
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容
+            [content] => 详情内容
+            [_more] => 
+        )
+
+)
+Array
+(
+    [event] => item.update
+    [data] => Array
+        (
+            [id] => 1000292
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689297833
+            [utime] => 1689581434
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000292,
+            [title] => 主标题2
+            [subtitle] => 副标题2
+            [alias] => 
+            [tags] => 
+            [image] => https://test.pagepan.com/02/data/file/item/10016/27.png
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => data/file/item/1000292
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容2
+            [content] => 详情内容2
+            [_more] => {"content_type":"html"}
+        )
+
+)
+Array
+(
+    [event] => item.update
+    [data] => Array
+        (
+            [id] => 1000292
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689297833
+            [utime] => 1689581498
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000292,
+            [title] => 主标题2
+            [subtitle] => 副标题2
+            [alias] => 
+            [tags] => 
+            [image] => https://test.pagepan.com/02/data/file/item/10016/27.png
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => data/file/item/1000292
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容2
+            [content] => 详情内容2
+            [_more] => {"content_type":"html"}
+        )
+
+)
+Array
+(
+    [event] => item.update
+    [data] => Array
+        (
+            [id] => 1000292
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689297833
+            [utime] => 1689581653
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000292,
+            [title] => 主标题2
+            [subtitle] => 副标题2
+            [alias] => 
+            [tags] => 
+            [image] => https://test.pagepan.com/02/data/file/item/10016/27.png
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => data/file/item/1000292
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容2
+            [content] => 详情内容2
+            [_more] => {"content_type":"html"}
+        )
+
+)
+Array
+(
+    [event] => item.update
+    [data] => Array
+        (
+            [id] => 1000292
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689297833
+            [utime] => 1689581673
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000292,
+            [title] => 主标题2
+            [subtitle] => 副标题2
+            [alias] => 
+            [tags] => 
+            [image] => https://test.pagepan.com/02/data/file/item/10016/27.png
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => data/file/item/1000292
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容2
+            [content] => 详情内容2
+            [_more] => {"content_type":"html"}
+        )
+
+)
+Array
+(
+    [event] => item.create
+    [data] => Array
+        (
+            [id] => 1000317
+            [pid] => 1000287
+            [jid] => 0
+            [page_id] => 160
+            [ctime] => 1689581676
+            [utime] => 0
+            [sortby] => 100
+            [state] => 1
+            [type] => 1
+            [guid] => 
+            [level] => ,1000287,1000317,
+            [title] => 主标题
+            [subtitle] => 副标题
+            [alias] => 
+            [tags] => 
+            [image] => http://qing.pagepan.com.loc/src/data/file/freedom.jpg
+            [image2] => 
+            [bgi] => 
+            [bgc] => 
+            [video] => 
+            [audio] => 
+            [file] => 
+            [path] => 
+            [link] => 
+            [seo] => 
+            [summary] => 摘要内容
+            [content] => 详情内容
+            [_more] => 
+        )
+
+)
