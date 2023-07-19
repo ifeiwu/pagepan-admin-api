@@ -4,7 +4,7 @@ require_once '../../helper.php';
 
 $headers = ['token' => SITE_TOKEN];
 
-$column = '*'; // 显示字段
+$column = 'id,pid,title,image,path'; // 显示字段
 $where = [['page_id', '=', 160], 'AND', ['type', '=', 1]]; // type=1表示项目，type=2表示分类
 $order = ['sortby' => 'DESC', 'ctime' => 'DESC']; // 排序规则
 $limit = [0, 2]; // 限制条数
